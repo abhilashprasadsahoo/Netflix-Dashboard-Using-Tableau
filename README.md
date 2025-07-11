@@ -14,6 +14,5 @@ Ratings and content availability insights
 
 
 
-**DASHBOARD
-**
+**DASHBOARD**
 ![DASHBOARD NETFLIX](https://github.com/abhilashprasadsahoo/Netflix-Dashboard-Using-Tableau/blob/main/DASHBOARD%20NETFLIX.png)

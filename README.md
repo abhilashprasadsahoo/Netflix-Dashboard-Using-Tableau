@@ -11,3 +11,7 @@ Ratings and content availability insights
 📊 Tools Used: Tableau
 📁 File Format: .twb (Tableau Workbook)
 📌 Ideal for: Data analysis practice, visualization learning, and project portfolio enhancement.
+
+DASHBOARD
+
+![DASHBOARD NETFLIX](https://github.com/abhilashprasadsahoo/Netflix-Dashboard-Using-Tableau/blob/main/DASHBOARD%20NETFLIX.png)
